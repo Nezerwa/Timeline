@@ -1,57 +1,58 @@
+# Module One Capstone Project
 
-# Module one Capstone Project
+> This project built to show accomplishment work.
+> ![screenshot](images/timeline.png) > ![screenshot](images/timeline2.png) > ![screenshot](images/timeline3.png)
+> Capstone Project is project which highlights and showcases samples of some of best work, learning progress, and academic achievement in software development.
 
-> Capstone: In this project I created a website which is adaptable on Desktop and also mobile/smartphone.
-
-> Please view my portfolio page in your browser by following this link "https://nezerwa.github.io/Module1-capstone-project/"
 ## Built With
 
 - HTML
 - CSS
--javascript
+- JavaScript
+
+## Live Demo
+
+[nezerwa.github.io/https://nezerwa.github.io/Module1-capstone-project/](https://nezerwa.github.io/https://nezerwa.github.io/Module1-capstone-project/)
 
 ## Getting Started
-1. Please go to"https://github.com/Nezerwa"
-2. Click on repositories
-3. Choose repository "Personal-portfolio" or click to "https://github.com/Nezerwa/Module1-capstone-project"
-4. Then clone the repository to your local machine by using the following steps:
-     1. From repository click on code button and copy clone command(Kindly make sure you choose ssh format)
-     2. From your terminal type "git clone" command line
-     3. On same line paste the the copied clone command from GitHub
-     4.  Then click Enter. Now you are the repository/directory on your local machine.
-    
+
+To get a local copy open and running follow these simple example steps.
 
 ### Setup
-GitHub account 
-linters setup
-### Install
-VS code
-Git(Version Control)
 
+- Download or Clone Repository.
+- In case you downloaded repository Extract ZIP Folder.
+
+### Installation
+
+- One folder in your text editor.
+- Run `npm install` command to install all dependencies.
+  _N.B: Make sure that you have node installed in your commputer, if not [Download Node](https://nodejs.org/en/)_
+
+### Usage
+
+Navigate to the Folder and Double Click on index.html File or you can simply open project with live server in your editor.
+Project will open and running to your Browser.
+Learn more about [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer#:~:text=Shortcuts%20to%20Start%2FStop%20Server&text=Open%20a%20HTML%20file%20and,on%20Open%20with%20Live%20Server%20.&text=Open%20the%20Command%20Pallete%20by,Server%20to%20stop%20a%20server)
 
 ## Author
 
-👤 **Eligrand**
+- GitHub: [@Nezerwa](https://github.com/Nezerwa)
+- LinkedIn: [Nezerwa](https://www.linkedin.com/in/Nezerwa)
 
-- GitHub: [Nezerwa](https://github.com/Nezerwa)
-- LinkedIn: [Eligrand Nezerwa](https://www.linkedin.com/in/Eligrand-Nezerwa/)
-
-
-## 🤝 Contributing
+## :handshake: Contributing
 
 Contributions, issues, and feature requests are welcome!
-
 Feel free to check the [issues page](../../issues/).
 
 ## Show your support
 
-Give a ⭐️ if you like this project!
+Give a :star:️ if you like this project!
 
+## Acknowledgments
 
+- Great appreciation to Microverse community.
 
-
-## 📝 License
+## :memo: License
 
 This project is [MIT](./MIT.md) licensed.
-
-![](https://img.shields.io/badge/Microverse-blueviolet)
