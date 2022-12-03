@@ -14,6 +14,8 @@
 
 (https://nezerwa.github.io/Module1-capstone-project/index.html)
 
+## video Presentation
+https://www.loom.com/share/852ef0e72ecb4726846d3f734d1caf05
 ## Getting Started
 
 To get a local copy open and running follow these simple example steps.
