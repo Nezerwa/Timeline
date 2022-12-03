@@ -12,7 +12,7 @@
 
 ## Live Demo
 
-[nezerwa.github.io/https://nezerwa.github.io/Module1-capstone-project/](https://nezerwa.github.io/https://nezerwa.github.io/Module1-capstone-project/)
+(https://nezerwa.github.io/Module1-capstone-project/index.html)
 
 ## Getting Started
 
